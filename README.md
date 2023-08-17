@@ -1,4 +1,6 @@
-A web app designed to manage your phone book by getting the data from Tokopedia GraphQL API
+A web app designed to manage your phone book by getting the data from GoTo GraphQL API
+
+run "npm i" to install node_module file first
 
 ## Result
 
